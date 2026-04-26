@@ -1,0 +1,70 @@
+body 	{
+		font-family: Arial;
+		background-color:#f4f4f4;
+}
+nav	{
+		background: #333;
+		pading: 10px;
+}		
+	
+nav a	{
+		color:white;
+		margin: 10px;
+		text-decoration: none;
+		font-weihgt: bold;		
+
+}
+nav a:hover	{
+		color:yellow;		
+
+}
+.container	{
+			width: 60%;
+			margin: auto;
+			background: white;	
+			padding: 10px;
+			border-radius:10px;
+			box-shadow: 0 0 10px pink;
+			text-align:center;
+
+h1	{
+		color:blue;
+}
+
+h2	{
+		color: darkgreen;
+}
+
+p	{
+		font-size:18px;
+}
+
+ul	{
+		list-style: none;
+		pading: 0;
+}
+
+hr	{
+		margin: 20px 0;
+}
+.project-card {
+		background: #fff;
+		margin:15px;
+		padding:15px;
+		border-radious: 10px;
+		box-shadow: 0 0 5px gray;
+}
+
+.project-card:hover {
+			transform: scale(1.05);
+			transition: 0.3s;
+}
+	
+
+footer	{
+		margin-top: 20px;
+		padding: 10px;
+		background: #333;									
+		color: white;
+}
+
